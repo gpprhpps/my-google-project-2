@@ -19,3 +19,11 @@
  box-shadow: none;
  border-radius: 50px;
 }
+
+.icon{
+ display: flex;
+ align-items: center;
+ height: 40px;
+ padding-right: 13px;
+ padding-left: 7px;
+}
